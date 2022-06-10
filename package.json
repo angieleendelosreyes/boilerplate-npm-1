@@ -13,5 +13,9 @@
 	},
 	"author": "Angieleen Delos Reyes",
 	"description": "This is a backend refresher coding",
-	"keywords": [ "learning", "backend", "nodejs" ]
+	"keywords": [
+		"learning",
+		"backend",
+		"freecodecamp"
+	]
 }
