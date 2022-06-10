@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Angieleen Delos Reyes"
+	"author": "Angieleen Delos Reyes",
+	"description": "This is a backend refresher coding"
 }
