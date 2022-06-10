@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Angieleen Delos Reyes",
-	"description": "This is a backend refresher coding"
+	"description": "This is a backend refresher coding",
+	"keywords": [ "learning", "backend", "nodejs" ]
 }
